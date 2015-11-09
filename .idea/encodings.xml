@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/android-support-v4.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/hepeng/myfirsttest/ArticleFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/hepeng/myfirsttest/HeadlinesFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/hepeng/myfirsttest/Ipsum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-large" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/article_view.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/news_articles.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My FirstTest</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="action_sayHello">说hello</string>
+    <string name="action_display1">显示1</string>
+    <string name="action_display2">显示2</string>
+</resources>
